@@ -3,7 +3,7 @@ zzzzzzzzzzzzz
 come my journeyy
 
 <a href="https://cryptohack.org/user/wisnuazfar/"><img src="https://cdn.discordapp.com/attachments/890238141687009300/1001138403456335982/unknown.png" alt="cryptohack" loading="lazy" width="50" height="50"></a>
-<a href="https://ctftime.org/user/99952"><img src=https://ctftime.org/static/images/ct/logo.svg" alt="ctftime" loading="lazy" width="50" height="50"></a>
+<a href="https://ctftime.org/user/99952"><img src="https://ctftime.org/static/images/ct/logo.svg" alt="ctftime" loading="lazy" width="50" height="50"></a>
 
 ======================================================================================
 
